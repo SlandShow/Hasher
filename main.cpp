@@ -10,8 +10,9 @@
 #include <vector>
 #include "Hash.h"
 
+
 using namespace std;
-using namespace hash;
+
 
 int main() {
 
